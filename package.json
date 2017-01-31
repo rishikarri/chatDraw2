@@ -1,0 +1,24 @@
+{
+  "name": "chat-draw2",
+  "version": "1.0.0",
+  "description": "chatdraw 2.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishikarri/chatDraw2.git"
+  },
+  "keywords": [
+    "socket.io",
+    "node.js",
+    "canvas"
+  ],
+  "author": "Rishi Karri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishikarri/chatDraw2/issues"
+  },
+  "homepage": "https://github.com/rishikarri/chatDraw2#readme"
+}
